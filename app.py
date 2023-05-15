@@ -2,8 +2,8 @@ import openai
 from music21 import converter
 from midi2audio import FluidSynth
 
-openai.api_key = "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"
-openai.organization = "org-Y6SEavpjn8GFtEJs9UYDNz5B"
+openai.api_key =
+openai.organization = 
 
 
 def generate_music(prompt):
